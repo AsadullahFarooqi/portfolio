@@ -34,9 +34,9 @@ module.exports = {
     bio: 'Self educated software engineer. Python Django GraphQL React. Checkout my GitHub for my sample code',
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
-      github: 'https://github.com/AsadullahFarooqi/',
-      linkedin: 'https://www.linkedin.com/in/asadullah-farooqi-0bb080111/',
-      twitter: 'https://twitter.com/AsadUnderscore',
+      github: 'AsadullahFarooqi/',
+      linkedin: 'asadullah-farooqi-0bb080111/',
+      twitter: 'AsadUnderscore',
       facebook: '',
       telegram: '',
       rss: '',
