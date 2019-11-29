@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://asad.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Asadullah Farooqi',
+  subtitle: 'Self educated software engineer. Python Django GraphQL React',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -20,24 +20,28 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'Professional Experience',
+      path: '/pages/experience'
+    },
+    // {
+    //   label: 'Personal Projects',
+    //   path: '/pages/projects'
+    // },
   ],
   author: {
-    name: 'John Doe',
+    name: 'Asadullah Farooqi',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Self educated software engineer. Python Django GraphQL React',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'asadullah.itcgcs@gmail.com',
+      github: 'https://github.com/AsadullahFarooqi/',
+      linkedin: 'https://www.linkedin.com/in/asadullah-farooqi-0bb080111/',
+      twitter: 'https://twitter.com/AsadUnderscore',
+      facebook: '',
+      telegram: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
