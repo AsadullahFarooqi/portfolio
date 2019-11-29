@@ -1,8 +1,10 @@
 ---
-title: "Contact me"
+title: ""
 template: "page"
 socialImage: "/media/image-4.jpg"
 ---
+
+# Employement History
 
 ## Software Engineer 
 **[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Jan 2019 - Mar 2019*
@@ -26,3 +28,19 @@ socialImage: "/media/image-4.jpg"
 **Akbar Computer Academy** ​ Loralai  *Nov 2015 - Mar 2016*
 - Introduced computer tools to students who didn’t had any experience with computers.
 - Taught MS Office, Corel Draw, HTML/CSS and some other stuff.
+
+# Personal Projects
+
+### Teaching Programming
+
+- Since 2015 I have been teaching free coding and Algorithms to students.
+- I have been teaching C/C++, JavaScript, Python and HTML/CSS.
+- The people of my socity are at the lowest level in the technology So I teach for free to spread the knowledge and to encurage more people of my socity to technology.
+
+### Village Stream Water Calculator For Farmers/Villagers
+- The water division system was made a long time ago in old 1900 in terms of the movement of stars, sun-rise and sun-set.
+- I am building an application where it will help villagers and farmers to find the day of their turn.
+- I am using firebase, apollo-server and Reactjs, apollo-react to handle the frontend and backend.
+
+### Inventory Web App
+- Inventory web app for wholesalers built with Python, Django, jinja2, MySQL, HTML/CSS, Bootstrap.

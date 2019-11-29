@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://asad.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Asadullah Farooqi',
-  subtitle: 'Self educated software engineer. Python Django GraphQL React',
+  subtitle: 'Self educated software engineer. Python Django GraphQL React. Checkout my GitHub for my sample code',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Asadullah Farooqi',
     photo: '/photo.jpg',
-    bio: 'Self educated software engineer. Python Django GraphQL React',
+    bio: 'Self educated software engineer. Python Django GraphQL React. Checkout my GitHub for my sample code',
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
       github: 'https://github.com/AsadullahFarooqi/',
