@@ -1,13 +1,14 @@
 ---
-title: empty
-date: "2016-09-01T23:46:37.121Z"
+title: Sorting Algorithms 
+date: "2019-12-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/empty/"
-category: "empty"
+slug: "/posts/sorting-algorithms/"
+category: "technical"
 tags:
-  - "empty"
-description: "empty"
+  - "sorting"
+  - "algorithms"
+description: "Explanation of most known Sorting Algorithms."
 socialImage: ""
 ---
 
@@ -28,7 +29,9 @@ There are too many sorting algorithms but below is the list of mostly known sort
 |Radix sort     | 0(d(n+k))               | 0(d(n+k))                          | 0(d(n+k))                          | 0(d(n+k))                          |
 |Bucket sort    | 0(n^2)                  | 0(n)                               | 0(n)                               | 0(n)                               |
 |Shell sort     | 0(n^2)                  | 0(n^2)                             | 0(n^2)                             | 0(n^2)                             |
-  
+
 Before we jump into these sorting algorithms individually you should know that most of sorting algorithms are classified in 2 sections/types/categories, ones which uses Decision tree paradigm and ones which do not use decision tree paradigm.  
 The ones which uses the Decision Tree paradigm does comparisons in order to sort, where the non-decision tree will try other techniques, like divide and conquer.  
-The Algorithms which follows Decision Tree paradigm can never beat the **O(n lg n)** time complexity but we can work on them to reduce the space complexity/requirement. The reason that they can't ever beat the **O(n lg n)** time complexity is because the decision tree has the height of **lg n**, in order to sort the list each item has to flow from the top to bottom. 
+The Algorithms which follows Decision Tree paradigm can never beat the **O(n lg n)** time complexity but we can work on them to reduce the space complexity/requirement. The reason that they can't ever beat the **O(n lg n)** time complexity is because the decision tree has the height of **lg n**, in order to sort the list each item has to flow from the top to bottom and that is why it will always be *__n__ times __lg n__*.
+
+ 
