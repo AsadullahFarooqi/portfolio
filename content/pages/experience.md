@@ -6,7 +6,7 @@ socialImage: "/media/image-4.jpg"
 
 # Employement History
 
-## Python 
+## Software Engineer
 **[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Present*
 - I write Data APIs which asynchronously fetch from a source and update destination.
 - Scrape data from multiple sources and running some filtration and analysis on them.
