@@ -6,6 +6,12 @@ socialImage: "/media/image-4.jpg"
 
 # Employement History
 
+## Python 
+**[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Present*
+- I write Data APIs which asynchronously fetch from a source and update destination.
+- Scrape data from multiple sources and running some filtration and analysis on them.
+- The Tech stack I use in my daily work is Python, Shopify, Scraping etc.
+
 ## Software Engineer 
 **[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Jan 2019 - Mar 2019*
 - As requirement came along for reactjs got up and running with it in less then a week​ .
