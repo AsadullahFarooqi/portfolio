@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://asad.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Asadullah Farooqi',
-  subtitle: 'Self educated software engineer. Python Django GraphQL React. Checkout my GitHub for my sample code',
+  subtitle: 'Software Engineer at Punch.cool. Python, Django, GraphQL, ReactJS. Checkout my GitHub for my sample code',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
