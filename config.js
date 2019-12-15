@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Asadullah Farooqi',
     photo: '/photo.jpg',
-    bio: 'Self educated software engineer. Python Django GraphQL React. Checkout my GitHub for my sample code',
+    bio: 'Software Engineer at Punch.cool. Python, Django, GraphQL, ReactJS. Checkout my GitHub for my sample code',
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
       github: 'AsadullahFarooqi/',
