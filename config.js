@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://asad.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Asadullah Farooqi',
-  subtitle: 'Software Engineer at Punch.cool. Python, Django, GraphQL, ReactJS. Checkout my GitHub for my sample code',
+  subtitle: 'Python Developer at Punch.cool. Python, JavaScript, Django, GraphQL, ReactJS. Checkout my GitHub for my sample code',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Asadullah Farooqi',
     photo: '/photo.jpg',
-    bio: 'Software Engineer at Punch.cool. Python, Django, GraphQL, ReactJS. Checkout my GitHub for my sample code',
+    bio: 'Python Developer at Punch.cool. Python, JavaScript, Django, GraphQL, ReactJS. Checkout my GitHub for my sample code',
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
       github: 'AsadullahFarooqi/',
