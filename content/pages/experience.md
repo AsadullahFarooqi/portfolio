@@ -8,9 +8,10 @@ socialImage: "/media/image-4.jpg"
 
 ## Software Engineer
 **[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Present*
+- I have completed nearly all the projects which were under my responsibility/skill set.
 - I work backend Data APIs which asynchronously fetch from a source and update destination.
 - I also work on frontend like ReactJS and NextJS work.
-- Scrape data from multiple sources and running some filtration and analysis on them.
+- Get data from multiple sources and running some filtration and analysis on them.
 - The Tech stack I use in my daily work is Python, ReactJS, NextJS, Flask, Git.
 
 ## Software Engineer 
