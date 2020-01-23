@@ -8,23 +8,21 @@ socialImage: "/media/image-4.jpg"
 
 ## Software Engineer
 **[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Present*
-- I have completed nearly all the projects which were under my responsibility/skill set.
-- I work backend Data APIs which asynchronously fetch from a source and update destination.
-- I also work on frontend like ReactJS and NextJS work.
-- Get data from multiple sources and running some filtration and analysis on them.
+- I have completed nearly all the projects which are under my responsibility set.
+- I work on backend Data APIs which asynchronously fetch data from sources run filtration on given data and update the destination.
+- I also work on frontend like ReactJS and NextJS.
 - The Tech stack I use in my daily work is Python, ReactJS, NextJS, Flask, Git.
 
 ## Software Engineer 
 **[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Jan 2019 - Mar 2019*
-- As requirement came along for reactjs got up and running with it in less then a week​ .
-- Fixed bugs on live and running site ​stylemepretty​ using reactjs and docker.
-- I quit due to some issues during my first month as full time SWE.
+- As requirement came along for ReactJS I got up and running with ReactJS less then a week​.
+- Fixed bugs on live and running site using ReactJS and docker.
 
 ## Fullstack Internship
 **[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Dec 2018 - Jan 2019*
 - Wrote Front-end and back-end for live Financial Dashboard.
-- The technologies that I used for Frontend AngularJS and for backend Python, Django, Pandas.
-- Got promoted to software engineer full time right after my first month.
+- The technologies that I used for Frontend is HTML, AngularJS and for backend Python, Django, Pandas.
+- Got promoted to full time software engineer right after my first month.
 
 ## Python Instructor
 **[NHIIT](https://networkhome.com.pk/), Multan**  *Dec 2016 - Mar 2017*
@@ -34,7 +32,7 @@ socialImage: "/media/image-4.jpg"
 
 ## IT Instructor
 **Akbar Computer Academy** ​ Loralai  *Nov 2015 - Mar 2016*
-- Introduced computer tools to students who didn’t had any experience with computers.
+- Introduced computer tools to students who did not have any experience with computers.
 - Taught MS Office, Corel Draw, HTML/CSS and some other stuff.
 
 # Personal Projects
