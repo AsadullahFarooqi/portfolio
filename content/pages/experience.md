@@ -41,7 +41,7 @@ socialImage: "/media/image-4.jpg"
 
 - Since 2015 I have been teaching free coding and Algorithms to students.
 - I have been teaching C/C++, JavaScript, Python and HTML/CSS.
-- The people of my socity are at the lowest level in the technology So I teach for free to spread the knowledge and to encurage more people of my socity to technology.
+- The people of my socity are at the lowest level in the technology So I teach for free to spread the knowledge and to encourage more people of my socity to technology.
 
 ### Village Stream Water Calculator For Farmers/Villagers
 - The water division system was made a long time ago in old 1900 in terms of the movement of stars, sun-rise and sun-set.
