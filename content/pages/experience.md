@@ -7,11 +7,17 @@ socialImage: "/media/image-4.jpg"
 # Employement History
 
 ## Software Engineer
+**[Mentor Graphics](https://www.mentor.com/), Lahore**  *Feb 2020 - Present*
+- I work with MEIF(Mentor Embedded Iot Framework) team, where I add new features to the framework and make it more optimize.
+- The Tech stack I used in my daily work is C, Docker, Python, Git, CMAKE, bitbake, Yocto.
+- My work there is connected with Source code of Realtime OS, RTOS, Linux development.
+
+## Software Engineer
 **[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Present*
 - I have completed nearly all the projects which are under my responsibility set.
 - I work on backend Data APIs which asynchronously fetch data from sources run filtration on given data and update the destination.
 - I also work on frontend like ReactJS and NextJS.
-- The Tech stack I use in my daily work is Python, ReactJS, NextJS, Flask, Git.
+- The Tech stack I used in my daily work is Python, Docker ReactJS, NextJS, Flask, Git.
 
 ## Software Engineer 
 **[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Jan 2019 - Mar 2019*
