@@ -8,9 +8,9 @@ socialImage: "/media/image-4.jpg"
 
 ## Software Engineer
 **[Mentor Graphics](https://www.mentor.com/), Lahore**  *Feb 2020 - Present*
-- I work with MEIF(Mentor Embedded Iot Framework) team, where I add new features to the framework and make it more optimize.
-- The Tech stack I used in my daily work is C, Docker, Python, Git, CMAKE, bitbake, Yocto.
-- My work there is connected with Source code of Realtime OS, RTOS, Linux development.
+- Wrote features for Mentor Embedded Iot Framework MEIF(which runs on millions of IoT devices)
+- Wrote an automation framework with Python to automate the testing of MEIF.
+- Techs stack in my daily job c, python, cmake, bitbake etc.
 
 ## Software Engineer
 **[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Present*
