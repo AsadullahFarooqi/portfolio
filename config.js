@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://asad.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Asadullah Farooqi',
-  subtitle: 'Software Engineer at Mentor Graphics, Open for Python/JS/go position',
+  subtitle: 'Software Engineer at Mentor Graphics, Open for Python / JavaScript / Golang position',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Asadullah Farooqi',
     photo: '/photo.jpg',
-    bio: 'Software Engineer at Mentor Graphics, Open for Python/JS/go position',
+    bio: 'Software Engineer at Mentor Graphics, Open for Python / JavaScript / Golang position',
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
       github: 'AsadullahFarooqi/',
