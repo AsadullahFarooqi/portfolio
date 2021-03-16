@@ -4,8 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-I am a totally self-taught and highly passionate developer. I started studying computer science in end of 2015 after graduating form high school.<br> 
-I have studied and built my skill in a very tough environment where there was no electricity no internet no library. But I kept myself motivated and passionate, which shows and proves my keen to learn and work ethic.
+Completely self-taught and highly passionate developer. Morals and Ethics on priority 🙂
 
 ## Technical Skills <br>
 - **Programming & Scripting**:​ Python, JavaScript(ES6), C/C++, TypeScript, (​bash-scripting​) <br>
