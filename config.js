@@ -38,7 +38,7 @@ module.exports = {
       linkedin: 'asadullah-farooqi-0bb080111/',
       twitter: 'AsadUnderscore',
       facebook: '',
-      telegram: '',
+      telegram: '00923111686184',
       rss: '',
       vkontakte: '',
       instagram: '',
