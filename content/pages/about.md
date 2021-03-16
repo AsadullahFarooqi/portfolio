@@ -6,6 +6,8 @@ socialImage: "/media/image-2.jpg"
 
 Completely self-taught and highly passionate developer. Morals and Ethics on priority 🙂
 
+Contact 00923111686184
+
 ## Technical Skills <br>
 - **Programming & Scripting**:​ Python, JavaScript(ES6), C/C++, TypeScript, (​bash-scripting​) <br>
 - **Web:** ​ Django, Flask, Apollo Client, ReactJS, NextJS, HTML, CSS, Bootstrap, Material-UI, AngularJS <br>
