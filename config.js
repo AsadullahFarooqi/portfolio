@@ -39,7 +39,6 @@ module.exports = {
       twitter: 'AsadUnderscore',
       facebook: '',
       telegram: '',
-      whatsapp: '00923111686184',
       rss: '',
       vkontakte: '',
       instagram: '',
