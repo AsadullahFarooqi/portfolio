@@ -4,31 +4,44 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
+**[Resume link](https://github.com/AsadullahFarooqi/resume/blob/master/Asadullah%20Farooqi%20Resume%20(1).pdf)** <br>
+
 # Employement History
 
 ## Software Engineer
-**[Mentor Graphics](https://www.mentor.com/), Lahore**  *Feb 2020 - Present*
-- Wrote features for Mentor Embedded Iot Framework MEIF(which runs on millions of IoT devices)
-- Wrote an automation framework with Python to automate the testing of MEIF.
-- Techs stack in my daily job c, python, cmake, bitbake etc.
+**[Siemens DISW](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Present*
+- Working on future of technology, The Edge Computing solutions.
+- Wrote features for Mentor Embedded IoT Framework MEIF 1.x and MEIF 2.x.
+- Wrote a testing automation framework using Python for MEIF automated testing.
+- Added support in other custom automation frameworks as well.
+- Techs stack in my daily job C, Python, Golang, Docker, Cmake, Make, Bitbake, Linux, etc.
+
+## Python Contractor
+**[TechBay](#), Remote**  *Nov 2020 - Jan 2021*
+- Introduced and implemented(backend) the concept of the vendor in Halidai(Android App).
+- The Halidai App was only social media, the vendor concept brought business to the product.
+- Also wrote the frontend for the vendor panel.
+- Python, Django, Hapi JS, MongoDB, git, are The technologies that I used in my work.
 
 ## Software Engineer
-**[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Present*
-- I have completed nearly all the projects which are under my responsibility set.
-- I work on backend Data APIs which asynchronously fetch data from sources run filtration on given data and update the destination.
-- I also work on frontend like ReactJS and NextJS.
-- The Tech stack I used in my daily work is Python, Docker ReactJS, NextJS, Flask, Git.
+**[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Jan 2020*
+- Worked on a lead generation scraper and skipify.com.
+- Optimized the scraper job to reduce the cloud cost by 50%, scrapers would efficiently collect
+jobs/projects from the most popular sites on the internet and find their poster contacts, and
+direct them to the sales team to pitch for the projects which brought business.
+- The Tech stack I use in my daily work is Python, ReactJS, NextJS, Docker, GraphQL, Shopify-API.
 
-## Software Engineer 
-**[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Jan 2019 - Mar 2019*
-- As requirement came along for ReactJS I got up and running with ReactJS less then a week​.
-- Fixed bugs on live and running site using ReactJS and docker.
-
-## Fullstack Internship
-**[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Dec 2018 - Jan 2019*
-- Wrote Front-end and back-end for live Financial Dashboard.
-- The technologies that I used for Frontend is HTML, AngularJS and for backend Python, Django, Pandas.
-- Got promoted to full time software engineer right after my first month.
+## Software Engineer Intern 
+**[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Dec 2018 - Feb 2019*
+- Fixed front-end bugs on a live website with millions of hits.
+- Wrote front-end and back-end features for live Financial Dashboard, Where the data has to
+be collected from the selling point. After computation and analysis, it would be displayed on a
+Dashboard explaining analysis on the charts and other statistical tools, from where the future
+of business had to be decided.
+- Angular JS, React JS, HTML, CSS, Echarts are the technologies that I used for the frontend,
+and Python, Django, Pandas, Docker are some of the technologies I used for the backend.
+- Got promoted to a full-time software engineer role right after my first month of internship
+and worked as a Software Engineer for 1 month.
 
 ## Python Instructor
 **[NHIIT](https://networkhome.com.pk/), Multan**  *Dec 2016 - Mar 2017*
@@ -48,11 +61,6 @@ socialImage: "/media/image-4.jpg"
 - Since 2015 I have been teaching free coding and Algorithms to students.
 - I have been teaching C/C++, JavaScript, Python and HTML/CSS.
 - The people of my socity are at the lowest level in the technology So I teach for free to spread the knowledge and to encourage more people of my socity to technology.
-
-### Village Stream Water Calculator For Farmers/Villagers
-- The water division system was made a long time ago in old 1900 in terms of the movement of stars, sun-rise and sun-set.
-- I am building an application where it will help villagers and farmers to find the day of their turn.
-- I am using firebase, apollo-server and Reactjs, apollo-react to handle the frontend and backend.
 
 ### Inventory Web App
 - Inventory web app for wholesalers built with Python, Django, jinja2, MySQL, HTML/CSS, Bootstrap.
