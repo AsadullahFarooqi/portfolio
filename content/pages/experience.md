@@ -9,7 +9,7 @@ socialImage: "/media/image-4.jpg"
 # Employement History
 
 ## Software Engineer
-**[Siemens DISW](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Present*
+**[Siemens](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Present*
 - Working on future of technology, The Edge Computing solutions.
 - Wrote features for Mentor Embedded IoT Framework MEIF 1.x and MEIF 2.x.
 - Wrote a testing automation framework using Python for MEIF automated testing.
