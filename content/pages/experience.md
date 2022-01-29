@@ -10,57 +10,49 @@ socialImage: "/media/image-4.jpg"
 
 ## Software Engineer
 **[Siemens](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Present*
-- Working on future of technology, The Edge Computing solutions.
-- Wrote features for Mentor Embedded IoT Framework MEIF 1.x and MEIF 2.x.
-- Wrote a testing automation framework using Python for MEIF automated testing.
-- Added support in other custom automation frameworks as well.
-- Techs stack in my daily job C, Python, Golang, Docker, Cmake, Make, Bitbake, Linux, etc.
+- Added multiple features in the Edge solution for AWS and Azure using Go, Docker, C.
+- Implemented features for Mentor Embedded IoT Framework, wrote docs and design docs.
+- Wrote a complete test automation framework using Python for unit testing. Which is integrated internally with Jenkins jobs.
+- Added features in other automation frameworks using Python.
+- The Tech stack in my daily job is Golang, Python, C, Docker, Cmake, Linux, etc.
 
 ## Python Contractor
 **[TechBay](#), Remote**  *Nov 2020 - Jan 2021*
-- Introduced and implemented(backend) the concept of the vendor in Halidai(Android App).
-- The Halidai App was only social media, the vendor concept brought business to the product.
-- Also wrote the frontend for the vendor panel.
-- Python, Django, Hapi JS, MongoDB, git, are The technologies that I used in my work.
+- Implemented the vendor feature backend in Halidai App, using Python, Django, MongoDB.
+- The vendor concept in the app brought business to the product.
+- Wrote the frontend for the vendor panel where vendors could control their store.
+- Python, Django, Hapi JS, MongoDB, git, are the technologies that I used in my work.
 
 ## Software Engineer
 **[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Jan 2020*
-- Worked on a lead generation scraper and skipify.com.
-- Optimized the scraper job to reduce the cloud cost by 50%, scrapers would efficiently collect
-jobs/projects from the most popular sites on the internet and find their poster contacts, and
-direct them to the sales team to pitch for the projects which brought business.
+- Using React JS I implemented the card frontend logic in Skipify.
+- Structured the lead generation code and wrote a web app with UI for the sales team to interact withthe lead generation which automated manual workflow.
+- Optimized the lead generation code to reduce the cloud cost by 50%, scrapers would efficiently collect jobs/projects from the most popular sites on the internet find their poster contacts, and direct them to the sales team to pitch for the projects which brought business.
 - The Tech stack I use in my daily work is Python, ReactJS, NextJS, Docker, GraphQL, Shopify-API.
 
 ## Software Engineer Intern 
 **[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Dec 2018 - Feb 2019*
-- Fixed front-end bugs on a live website with millions of hits.
-- Wrote front-end and back-end features for live Financial Dashboard, Where the data has to
-be collected from the selling point. After computation and analysis, it would be displayed on a
-Dashboard explaining analysis on the charts and other statistical tools, from where the future
-of business had to be decided.
-- Angular JS, React JS, HTML, CSS, Echarts are the technologies that I used for the frontend,
-and Python, Django, Pandas, Docker are some of the technologies I used for the backend.
-- Got promoted to a full-time software engineer role right after my first month of internship
-and worked as a Software Engineer for 1 month.
+- Fixed UI problems and bugs in Stylemepretty using React JS.
+- Most of my responsibilities were a live financial dashboard. So I Added features in the frontend and backend of that dashboard. Live data of POS (point of sales) was stored in databases. And the dashboard was supposed to help analytics with that POS data understanding. The dashboard with technical details charts and statistical tools has to help the analytics to help grow the business. My job was to make the dashboard more analytical and provide clean data and details through the dashboard.
+- The Tech stack I use in my daily work is JavaScript, React JS, HTML, CSS, Echart JS, Python, Django, Pandas, Docker, etc.
+- Got promoted to a full-time software engineer role right after my first month of internship and worked as a Software Engineer for 1 month.
 
 ## Python Instructor
 **[NHIIT](https://networkhome.com.pk/), Multan**  *Dec 2016 - Mar 2017*
 - Taught Python to starters.
 - I attended the CCNA course at NHIIT and learned about networks.
-- It was a short stay in Multan just to spend the winter.
 
 ## IT Instructor
 **Akbar Computer Academy** ​ Loralai  *Nov 2015 - Mar 2016*
-- Introduced computer tools to students who did not have any experience with computers.
+- Introduced computer tools to students who didn’t have any experience with computers.
 - Taught MS Office, Corel Draw, HTML/CSS and some other stuff.
 
 # Personal Projects
 
 ### Teaching Programming
 
-- Since 2015 I have been teaching free coding and Algorithms to students.
-- I have been teaching C/C++, JavaScript, Python and HTML/CSS.
-- The people of my socity are at the lowest level in the technology So I teach for free to spread the knowledge and to encourage more people of my socity to technology.
+- Mentoring beginners in the CS in my home city. My city people are at the lowest level of technology So I teach for free to spread the knowledge and bring more people to tech.
 
 ### Inventory Web App
-- Inventory web app for wholesalers built with Python, Django, jinja2, MySQL, HTML/CSS, Bootstrap.
+- An Inventory web app for wholesalers built with Python, Django, jinja2, MySQL, HTML/CSS, Bootstrap.
+- The app is supposed to help the client with his daily day-to-day customer's ledgers and accounts.

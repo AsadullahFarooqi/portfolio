@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://asad.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Asadullah Farooqi',
-  subtitle: 'Software Engineer at Siemens, Open for interesting position/project',
+  subtitle: 'Software Development Engineer at Siemens; Open for new opportunities remotely and willing to relocate as well as per requirement.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Asadullah Farooqi',
     photo: '/photo.jpg',
-    bio: 'Software Engineer at Mentor Graphics, Open for Python / JavaScript / Golang position',
+    bio: 'Software Development Engineer at Siemens; Open for new opportunities remotely and willing to relocate as well as per requirement.',
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
       github: 'AsadullahFarooqi/',
