@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Highly skilled and passionate about building things. <br>
+Highly skilled and passionate about building fascinating technology. <br>
 
 **[Resume link](https://github.com/AsadullahFarooqi/resume/raw/master/Asadullah%20Farooqi%20Resume.pdf)**
 
