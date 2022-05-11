@@ -8,11 +8,17 @@ socialImage: "/media/image-4.jpg"
 
 # Employement History
 
+## Backend Engineer
+**[Safepay](https://www.getsafepay.pk/), Remote**  *Mar 2022 - Present*
+- Extended the API of the SafePay with additional features.
+- Updated the version of the API-related packages for additional security.
+- The Tech stack in my daily job is Golang, Go-kit, Docker, MySQL, Make, Bash, Linux, etc.
+
 ## Software Engineer
-**[Siemens](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Present*
+**[Siemens](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Mar 2022*
 - Added multiple features in the Edge solution for AWS and Azure using Go, Docker, C.
 - Implemented features for Mentor Embedded IoT Framework, wrote docs and design docs.
-- Wrote a complete test automation framework using Python for unit testing. Which is integrated internally with Jenkins jobs.
+- Wrote a complete test automation framework using Python for unit testing.
 - Added features in other automation frameworks using Python.
 - The Tech stack in my daily job is Golang, Python, C, Docker, Cmake, Linux, etc.
 

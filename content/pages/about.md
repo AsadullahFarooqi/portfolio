@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Self-taught and highly passionate engineer. <br>
+Highly skilled and passionate about building things. <br>
 
 **[Resume link](https://github.com/AsadullahFarooqi/resume/raw/master/Asadullah%20Farooqi%20Resume.pdf)**
 
