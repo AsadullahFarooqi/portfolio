@@ -4,44 +4,54 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
-**[Resume link](https://github.com/AsadullahFarooqi/resume/blob/master/Asadullah%20Farooqi%20Resume%20(1).pdf)** <br>
+**[Resume link](https://github.com/AsadullahFarooqi/resume/raw/master/Asadullah%20Farooqi%20Resume.pdf)** <br>
 
 # Employement History
 
 ## Backend Engineer
 **[Safepay](https://www.getsafepay.pk/), Remote**  *Mar 2022 - Present*
-- Extended the API of the SafePay with additional features.
-- Updated the version of the API-related packages for additional security.
-- The Tech stack in my daily job is Golang, Go-kit, Docker, MySQL, Make, Bash, Linux, etc.
+- Enhanced the reporting of payments, wrote many endpoints and complex MySQL queries for charts on the merchant's and admin's dashboards. And added audit logging mechanism for the admin staff.
+- I Added payment methods in the payment options such as Easypaisa and Abhi, which involved writing microservices from scratch using Golang, Go-kit, and Docker and creating their MySQL DB design.
+- Modernized the registration flow by adding the OTP step in the registration steps. Extended multiple services and related packages by adding additional security covering edge cases.
+- Wrote billing microservice so the customers and other third parties could use the API for utility bills.
+- The tech stack in my daily job is Golang, Go-kit, Docker, MySQL, Make, Linux, Delve Debugger, and Postman.
+
+## Backend Architecture
+**[Microsec](https://www.microsec.ai/), Remote**  *Nov 2022 - Mar 2023*
+- Updated the DLP scanning mechanism to cache the configurations using Golang, Gin, Docker, K8s, and HTTP REST.
+- Wrote a compliance proxy service for AWS Lambda scanning that would consume on RabbitMQ.
+- Update the DLP scanning flow using cache for periodic scanning.
+- It's a temporary part-time contract project.
 
 ## Software Engineer
 **[Siemens](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Mar 2022*
-- Added multiple features in the Edge solution for AWS and Azure using Go, Docker, C.
-- Implemented features for Mentor Embedded IoT Framework, wrote docs and design docs.
-- Wrote a complete test automation framework using Python for unit testing.
-- Added features in other automation frameworks using Python.
-- The Tech stack in my daily job is Golang, Python, C, Docker, Cmake, Linux, etc.
+- Added AWS and Azure support in the IoT Edge solution for MQTT protocol using the AWS and Azure SDK. That involves device authentication, provisioning, and data sending. Wrote unit tests for the code.
+- Wrote a complete test automation framework using Python for unit testing for the IoT Framework which would be deployed in Jenkins. Added features in other automation software that are deployed with Jenkins.
+- Worked with Debian Linux and Yocto Linux builds from the code till the release build. Build, and debug the Linux images and deploy the IoT framework on them, etc.
+- The Tech stack in my daily job was Golang, Python, Docker, C, GCC Debugger and other debugging tools, make, Cmake, Linux, virtualization, Delve Debugger, and other debugging tools.
 
 ## Python Contractor
 **[TechBay](#), Remote**  *Nov 2020 - Jan 2021*
-- Implemented the vendor feature backend in Halidai App, using Python, Django, MongoDB.
-- The vendor concept in the app brought business to the product.
-- Wrote the frontend for the vendor panel where vendors could control their store.
-- Python, Django, Hapi JS, MongoDB, git, are the technologies that I used in my work.
+- A temporary part-time aid in adding vendor app features to bring in additional business.
+- The Halidai app was a social media app similar to TikTok after this feature users with vendor profiles could now lend products to users.
+- I wrote a Django app that used CDN for media file storage and MongoDB for vendor data management. The frontend of the vendor dashboard was done in HTML, CSS, and Bootstrap, and the backend with Python and Django.
+- Python, Django, Hapi JS, MongoDB, and Git were the technologies I used daily.
 
 ## Software Engineer
 **[Punch Group](https://www.punch.cool/), Lahore**  *Dec 2019 - Jan 2020*
-- Using React JS I implemented the card frontend logic in Skipify.
-- Structured the lead generation code and wrote a web app with UI for the sales team to interact withthe lead generation which automated manual workflow.
-- Optimized the lead generation code to reduce the cloud cost by 50%, scrapers would efficiently collect jobs/projects from the most popular sites on the internet find their poster contacts, and direct them to the sales team to pitch for the projects which brought business.
-- The Tech stack I use in my daily work is Python, ReactJS, NextJS, Docker, GraphQL, Shopify-API.
+- A temporary part-time contract based on resolving the ongoing issues and removing the blockers.
+- Implemented the card frontend logic in Skipify using React JS.
+- Wrote a Flask web app or microservice along with the frontend for the sales team to interact with the lead generation which automated manual workflow of file generation and handing overs.
+- Optimized the lead generation code to reduce the cloud cost, scrapers would efficiently collect jobs/projects and direct them to the sales team to pitch for the projects which brought business.
+- Tech stack in daily work was Python, Flask, ReactJS, NextJS, Docker, and GraphQL.
 
 ## Software Engineer Intern 
 **[Maher Inc](https://www.linkedin.com/company/maher-inc/about/), Lahore**  *Dec 2018 - Feb 2019*
-- Fixed UI problems and bugs in Stylemepretty using React JS.
-- Most of my responsibilities were a live financial dashboard. So I Added features in the frontend and backend of that dashboard. Live data of POS (point of sales) was stored in databases. And the dashboard was supposed to help analytics with that POS data understanding. The dashboard with technical details charts and statistical tools has to help the analytics to help grow the business. My job was to make the dashboard more analytical and provide clean data and details through the dashboard.
-- The Tech stack I use in my daily work is JavaScript, React JS, HTML, CSS, Echart JS, Python, Django, Pandas, Docker, etc.
-- Got promoted to a full-time software engineer role right after my first month of internship and worked as a Software Engineer for 1 month.
+- Fixed UI problems and bugs in Stylemepretty using React JS, and HTML.
+- I was responsible for a live financial dashboard. Live data of POS (point of sales) was stored in databases. The dashboard with technical details charts and statistical tools had to help the analytics to make good decisions and grow  he business. I Added support for data exportation in the backend service by writing the endpoints using Python, and Django, and in the front end using Angular JS.
+- Added APIs for stats in the backend and added charts in the front end.
+- My improvements made the dashboard more analytical and practical for the analysts, providing clean data, statistics, different types of charts, and much more detail through the dashboard.
+- Tech stack in my daily job was Python, Django, Angular JS, React JS, HTML, CSS, Echart JS, Pandas, and Docker.
 
 ## Python Instructor
 **[NHIIT](https://networkhome.com.pk/), Multan**  *Dec 2016 - Mar 2017*
