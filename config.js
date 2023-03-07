@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://asad.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Asadullah Farooqi',
-  subtitle: 'Backend Engineer at Safepay; Open for new opportunities. Open to new opportunities :smile:',
+  subtitle: 'Backend Engineer at Safepay; Open Source contributor; Open to new opportunities :smile:',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Asadullah Farooqi',
     photo: '/photo.jpg',
-    bio: 'Backend Engineer at Safepay; Open for new opportunities. Open to new opportunities :smile:',
+    bio: 'Backend Engineer at Safepay; Open Source contributor; Open to new opportunities :smile:',
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
       github: 'AsadullahFarooqi/',
