@@ -35,7 +35,7 @@ module.exports = {
     contacts: {
       email: 'asadullah.itcgcs@gmail.com',
       github: 'AsadullahFarooqi/',
-      linkedin: 'asadullah-farooqi-0bb080111/',
+      linkedin: 'asad-ullah-0bb080111/',
       twitter: 'AsadUnderscore',
       facebook: '',
       telegram: '',
