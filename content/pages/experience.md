@@ -10,11 +10,16 @@ socialImage: "/media/image-4.jpg"
 
 ## Backend Engineer
 **[Safepay](https://www.getsafepay.pk/), Remote**  *Mar 2022 - Present*
-- Enhanced the reporting of payments, wrote many endpoints and complex MySQL queries for charts on the merchant's and admin's dashboards. And added audit logging mechanism for the admin staff.
-- I Added payment methods in the payment options such as Easypaisa and Abhi, which involved writing microservices from scratch using Golang, Go-kit, and Docker and creating their MySQL DB design.
-- Modernized the registration flow by adding the OTP step in the registration steps. Extended multiple services and related packages by adding additional security covering edge cases.
-- Wrote billing microservice so the customers and other third parties could use the API for utility bills.
-- The tech stack in my daily job is Golang, Go-kit, Docker, MySQL, Make, Linux, Delve Debugger, and Postman.
+- I implemented the whole warehouse infrastructure from scratch i.e. I wrote ETL DataPipelines, jobs, and services
+for ETL, and that reduced load from the main DB and directed the analytical traffic to the warehouse.
+- Enhanced the reporting of payments, wrote many APIs and complex MySQL and PostgreSQL queries for charts for
+the merchant’s and admin's dashboards. And added an audit logging service from scratch for the admin staff.
+- I Added new payment methods in the payment options such as Easypaisa and AbhiPay, which involved writing
+microservices from scratch using Golang, Go-kit, and Docker and creating their MySQL DB design.
+- Modernized the registration flow by replacing the link verification with OTP. Extended multiple services and
+related packages by adding additional security covering edge cases and validation layers.
+- Wrote billing service so customers/third parties could use the API to pay different utility bills.
+- Tech-stack: Golang, Go-kit, Go-Echo, Docker, K8s, MySQL, Make, Linux, Delve Debugger, Postgres, SNS, SQS.
 
 ## Backend Architecture
 **[Microsec](https://www.microsec.ai/), Remote**  *Nov 2022 - Mar 2023*
@@ -25,10 +30,12 @@ socialImage: "/media/image-4.jpg"
 
 ## Software Engineer
 **[Siemens](https://www.sw.siemens.com/en-US/), Lahore/Remote**  *Feb 2020 - Mar 2022*
-- Added AWS and Azure support in the IoT Edge solution for MQTT protocol using the AWS and Azure SDK. That involves device authentication, provisioning, and data sending. Wrote unit tests for the code.
-- Wrote a complete test automation framework using Python for unit testing for the IoT Framework which would be deployed in Jenkins. Added features in other automation software that are deployed with Jenkins.
-- Worked with Debian Linux and Yocto Linux builds from the code till the release build. Build, and debug the Linux images and deploy the IoT framework on them, etc.
-- The Tech stack in my daily job was Golang, Python, Docker, C, GCC Debugger and other debugging tools, make, Cmake, Linux, virtualization, Delve Debugger, and other debugging tools.
+- Added AWS, Azure, and Flogo support in the IoT Edge solution for telemetry via MQTT using the AWS and Azure
+SDK. That involves device authentication, provisioning, and data sending.
+- Wrote a complete test automation framework using Python for unit testing for the IoT Framework. And added
+features in other automation software.
+- Tech-Stack in my daily job: Golang, Python, Docker, C, GCC Debugger and other debugging tools, make, Cmake,
+Linux, virtualization, Delve Debugger, and other debugging tools.
 
 ## Python Contractor
 **[TechBay](#), Remote**  *Nov 2020 - Jan 2021*
